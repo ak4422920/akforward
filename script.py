@@ -39,7 +39,7 @@ class  Script(object):
 ╔════❰ ғᴏʀᴡᴀʀᴅ ʙᴏᴛ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣
 ║┣⪼📃ʙᴏᴛ : [Fᴏʀᴡᴀᴅ Bᴏᴛ](https://t.me/AKautoforward_bot)
-║┣⪼👦Cʀᴇᴀᴛᴏʀ : [Kɪɴɢ VJ 👑](https://t.me/The_SonGoku)
+║┣⪼👦Cʀᴇᴀᴛᴏʀ : [Akmovieshub](https://t.me/akmovieshubbackup)
 ║┣⪼🤖Uᴘᴅᴀᴛᴇ : [Akmoviebotz](https://t.me/akmoviebotz)
 ║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : Sᴜᴘᴇʀ Fᴀsᴛ
 ║┣⪼🗣️Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ3
