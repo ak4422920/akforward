@@ -21,9 +21,9 @@ START_TIME = time.time()
 # Ask Doubt on telegram @KingVJ01
 
 main_buttons = [[
-    InlineKeyboardButton('❣️ ᴅᴇᴠᴇʟᴏᴘᴇʀ ❣️', url='https://t.me/The_SonGoku')
+    InlineKeyboardButton('❣️ ᴅᴇᴠᴇʟᴏᴘᴇʀ ❣️', url='https://t.me/zoroversex')
 ],[
-    InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/akrequestgroup'),
+    InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ', url='https://t.me/zoroversex'),
     InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/akmoviebotz')
 ],[
     InlineKeyboardButton('💝 Join Our Movies Channel', url='https://t.me/akmovieshubbackup')
